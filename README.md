@@ -3,14 +3,15 @@ This repository serves as my personal practice space for the problems and exerci
 
 ## Usage 
 1. Clone this repository to your local machine:
-git clone https://github.com/Martin896/head-first-c.git
+`git clone https://github.com/Martin896/head-first-c.git`
 
 2. Explore the directories corresponding to different chapters of the book.
 
 3. use your preferred C compiler (e.g, GCC) to compile and run the code. Example:
-gcc -o example example.c 
+```gcc -o example example.c
 
-./example  
+./example```
+
 4. Fell free to experiment with with the code 
 
 ## License 
