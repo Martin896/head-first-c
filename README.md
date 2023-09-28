@@ -8,9 +8,10 @@ This repository serves as my personal practice space for the problems and exerci
 2. Explore the directories corresponding to different chapters of the book.
 
 3. use your preferred C compiler (e.g, GCC) to compile and run the code. Example:
-```gcc -o example example.c
 
-./example```
+`gcc -o example example.c`
+
+`./example`
 
 4. Fell free to experiment with with the code 
 
